@@ -5,8 +5,7 @@ on:
   workflow_dispatch:
 jobs:
   github-metrics:
-    # runs-on: ubuntu-latest
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
       - uses: fnsflm/metrics@latest
@@ -29,7 +28,7 @@ jobs:
           plugin_languages_ignored: "HTML"
           
           # pagespeed
-          # plugin_pagespeed: yes
-          # plugin_pagespeed_url: https://fnsflm.xyz
-          # plugin_pagespeed_screenshot: yes
-          # plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://blog.makerlife.top
+          plugin_pagespeed_screenshot: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
