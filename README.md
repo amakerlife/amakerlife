@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://www.makerlife.live">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=&gt;%20Hello%20&lt;;这里是%20Makerlife.&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=&gt;%20Hello%20&lt;;I'm%20Makerlife.&center=true&size=27">
   </a>
 </h1>
 
@@ -13,12 +13,9 @@
   <a href="https://space.bilibili.com/1171869398/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=amakerlifegh" alt="访客统计" /></div>
-  
 
-[![makerlife的练习情况](https://luogu-card.makerlife.cf/practice?id=335621)](https://www.luogu.com.cn/user/335621)
+## My Skills
 
-[![makerlife的估值信息](https://luogu.wao3.cn/api/guzhi?id=335621&scores=100,39,43,7,20)](https://www.luogu.com.cn/user/335621)
-
-[![makerlife的基本信息](https://luogu-card.makerlife.cf/about?id=335621)](https://www.luogu.com.cn/user/335621)
+![skill](https://skillicons.dev/icons?i=cpp,py,flask,html,css,js,bash,git,md,nginx,docker,cloudflare,workers,github,vscode)
 
 [![makerlife's GitHub Stats](https://github-card.makerlife.cf/api?username=amakerlife&show_icons=true)](https://www.luogu.com.cn/user/335621)
