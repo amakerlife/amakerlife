@@ -18,4 +18,4 @@
 
 ![skill](https://skillicons.dev/icons?i=cpp,py,flask,html,css,js,bash,git,md,nginx,docker,cloudflare,workers,github,vscode)
 
-[![makerlife's GitHub Stats](https://github-card.makerlife.cf/api?username=amakerlife&show_icons=true)](https://www.luogu.com.cn/user/335621)
+![makerlife's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amakerlife&show_icons=true)
